@@ -5,7 +5,7 @@ You will skin 3 project gutenberg stories with custom CSS.
 
 Modification done: 
 - Gave a background image to make it look old
-- Set font colout to gray  
+- Set font colour to gray  
 - Changed the left and right margin of the body to 15%
 
 You will skin 2 versions of a possible professional homepage for your
