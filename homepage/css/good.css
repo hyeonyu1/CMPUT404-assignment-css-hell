@@ -74,8 +74,10 @@ aside h1{
 
 aside li{
     color:white;
-    font-size: 30px;
+    font-size: 2vw;
+    list-style: none;
 }
+
 
 p{
     color:black;

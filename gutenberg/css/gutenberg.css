@@ -1,10 +1,14 @@
-body {background-image: url("../images/background.jpg"); 
+body {
+    background-image: url("../images/background.jpg"); 
     background-size: cover;
-    font-family: Apple Chancery, cursive;
     font-size: x-large;
     margin-left: 15%;
     margin-right: 15%;
-    text-align: justify 
+    font-family: cursive;
+
+    text-align: justify ;
+    color: gray;
+
 }
 
 h1, h2, h3, h4, h5 {text-align: center; font-style: normal; font-weight:
@@ -25,8 +29,8 @@ hr {width: 80%; margin-top: 2em; margin-bottom: 2em;}
 
 div.chapter {page-break-before: always; margin-top: 4em;}
 
-p {
 
+p {
     text-indent: 1em;
 margin-top: 0.25em;
 margin-bottom: 0.25em; }
